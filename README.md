@@ -6,7 +6,7 @@ stored in a text file for pihole to use.
 https://github.com/10se1ucgo/DisableWinTracking
 
 # important notes
-* This list will likely never be updated unless DisableWinTracking/official fork
+* This list will likely never be updated unless [DisableWinTracking](https://github.com/10se1ucgo/DisableWinTracking)/[official fork](https://github.com/bitlog2/DisableWinTracking)
   updates their website list.
 * In pihole web ui you may need to whitelist "update.microsoft.com" with regex checked
   otherwise updates might be blocked.
